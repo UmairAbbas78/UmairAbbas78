@@ -23,7 +23,5 @@ Skills: REACT, MongoDB, NodeJS, Express, SQL, Documentation, GIT, FigmaUI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairAbbas78&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UmairAbbas78)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=UmairAbbas78)  
 
