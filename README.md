@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairabbas78" alt="umairabbas78" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on Iparhai Tech Start-up**
+- 🔭 I’m currently working on **AR Applications and Games On Unity**
 
-- 🌱 I’m currently learning **I’m currently learning React Native**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [umairabbas78.github.io/23](umairabbas78.github.io/23)
 
